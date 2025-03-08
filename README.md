@@ -46,6 +46,6 @@ This patch is intended for the Greatest Hits DualShock Ver. release of the game.
 - Replaced FMVs.
 - Replaced OST.
 - Replaced Mansion's Bathroom.
-- 
+  
 [View on ROMhacking.net](https://www.romhacking.net/hacks/5837/)
 
