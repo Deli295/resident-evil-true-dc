@@ -16,6 +16,12 @@ Further additions to this mod are in progress, including the restoration of back
 ## Instructions
 This patch is intended for the Greatest Hits DualShock Ver. release of the game. You should patch Track 1 only using xdelta. You have two patches to select from: one with the original OST and one with the Orchestral OST from the DualShock version.
 
+## Patches folder
+```
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUZEVm8wQU4wQ1o4U3NKbUY5anVSX0ZxMkNfaUFHXzJmP3VzcD1zaGFyZV9saW5r
+```
+Use a base 64 decoder to get the link to the Drive folder containing the patches
+
 ## Compatible Versions
 | Region            | Redump DB Entry | CRC-32   | MD5                                  | SHA-1                                      |
 |------------------|------------|---------|--------------------------------------|-------------------------------------------|
@@ -48,4 +54,3 @@ This patch is intended for the Greatest Hits DualShock Ver. release of the game.
 - Replaced Mansion's Bathroom.
   
 [View on ROMhacking.net](https://www.romhacking.net/hacks/5837/)
-
