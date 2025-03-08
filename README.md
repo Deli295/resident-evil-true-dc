@@ -22,26 +22,27 @@ This patch is intended for the Greatest Hits DualShock Ver. release of the game.
 | North America  | [125](http://redump.org/disc/125/) | b01860ce | 547d112ed2d5624fc23e765485f061bc | 08fbc01ae9c3d47aa93d2a99d69fa67a54e4982b |
 
 ## Special Thanks
-- **Wes67** for his RE1_Rebuild tool and his Ultimate Director’s Cut mod, which served as inspiration for this mod.
-- **SolidSnake11** from the “Peace of Mind” Discord server, for figuring out how the movies’ attributes were coded in the game’s executable.
-- **Various users** from the "RE123_modding_forum" and "PSXDev" Discord servers, for their help and contributions.
+- **Wes67** for his RE1_Rebuild tool and his Ultimate Director’s Cut mod, which served as inspiration for this mod
+- **SolidSnake11** from the “Peace of Mind” Discord server, for figuring out how the movies’ attributes were coded in the game’s executable
+- **MeganCrass** for assistance in fixing various bugs
+- **Various users** from the "RE123_modding_forum" and "PSXDev" Discord servers, for their help and contributions
 
 ## Changelog
-### [V0.4] 2021-12-04
-- Fixed music that played prematurely in Richard's second serum scene and Tyrant's awakening.
+### [V0.2.2] 2021-12-04
+- Fixed music that played prematurely in Richard's second serum scene and Tyrant's awakening
 
-### [V0.3.5] 2021-04-14
-- Fixed freezing on Mansion's 2nd Floor Right Stairs for hardware-accurate emulators like Mednafen. Original hardware to be tested. Thanks to MeganCrass for assistance.
+### [V0.2.1] 2021-04-14
+- Fixed freezing on Mansion's 2nd Floor Right Stairs on original hardware & hardware-accurate emulators like Mednafen.
 
-### [V0.3] 2021-04-04
-- Replaced Mansion's 2nd Floor Right Stairs.
-- Replaced Mansion's 2nd Floor Main Hall (beta version music).
+### [V0.2.0] 2021-04-04
+- Replaced Mansion's 2nd Floor Right Stairs
+- Replaced Mansion's 2nd Floor Main Hall (beta version music)
 
-### [V0.2] 2021-03-26
-- Added separate patch with the DualShock BGM.
+### [V0.1.1] 2021-03-26
+- Added separate patch with the DualShock OST
 
-### [V0.1] 2021-03-22
+### [V0.1.0] 2021-03-22
 - Initial release.
 - Replaced FMVs.
-- Replaced BGM.
+- Replaced OST.
 - Replaced Mansion's Bathroom.
